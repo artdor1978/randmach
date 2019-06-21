@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/randmach/static/css/main.2bc31b79.chunk.css",
+    "main.js": "/randmach/static/js/main.af0268c6.chunk.js",
+    "main.js.map": "/randmach/static/js/main.af0268c6.chunk.js.map",
+    "runtime~main.js": "/randmach/static/js/runtime~main.e816a61a.js",
+    "runtime~main.js.map": "/randmach/static/js/runtime~main.e816a61a.js.map",
+    "static/js/2.4e81ba5b.chunk.js": "/randmach/static/js/2.4e81ba5b.chunk.js",
+    "static/js/2.4e81ba5b.chunk.js.map": "/randmach/static/js/2.4e81ba5b.chunk.js.map",
+    "index.html": "/randmach/index.html",
+    "precache-manifest.16aa782c4f382e174e50126e952d6481.js": "/randmach/precache-manifest.16aa782c4f382e174e50126e952d6481.js",
+    "service-worker.js": "/randmach/service-worker.js",
+    "static/css/main.2bc31b79.chunk.css.map": "/randmach/static/css/main.2bc31b79.chunk.css.map"
+  }
+}
